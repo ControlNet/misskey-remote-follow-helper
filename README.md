@@ -13,7 +13,7 @@ A Tampermonkey userscript that lets you remotely follow a user on your Misskey i
 2. Download the script from https://greasyfork.org/scripts/556144
 3. In your browser’s Tampermonkey menu:
    - Click **“Set Your Misskey instance”** and enter e.g. `https://misskey.io`.
-   - Click **“Set Your Misskey API token”** and paste a token with `users.read` + `following.write` (or equivalent) permissions.
+   - Click **“Set Your Misskey API token”** and paste a token with relative permissions.
 
 ## Usage
 
